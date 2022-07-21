@@ -18,6 +18,6 @@
 |--|--
 |肉|魚
 |牛|マグロ
-|鳥|サバ<br>イカ太郎<br>タコ太郎<br>sametaro<br>kakitaro
+|鳥|サバ<br>イカ太郎<br>タコ太郎<br>サメ太郎<br>牡蠣太郎<br>サンマ太郎
 
 ![写真](img/yamazakijun.jpg)
